@@ -1,0 +1,18 @@
+FOLDER TREE REPORT
+==================
+
+Name: documents\report.txt
+Size: 15 bytes
+Modified: 29-10-2026 23:43:30
+
+Name: images\photo.txt
+Size: 17 bytes
+Modified: 29-10-2026 23:43:30
+
+Name: notes.txt
+Size: 12 bytes
+Modified: 29-10-2026 23:43:30
+
+==================
+Total files: 3
+Total size: 44 bytes
